@@ -22,6 +22,5 @@ switch( $choice ) {
     default:
         echo"Invalid choice!!";
         break;
-
         
 }
